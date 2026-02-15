@@ -45,10 +45,10 @@ This configuration transforms Zed into a modal editing powerhouse, combining the
 <td width="50%">
 
 ### 🤖 **Multi-Provider AI**
-- **GLM (Z.AI)** - Chinese AI with coding models
-- **GitHub Copilot** - gpt-5-mini, Claude 3.7, o1-preview
-- **OpenRouter** - Free models (Qwen, Gemini)
-- **Mistral** - Devstral for development
+- **GLM (Z.AI)** - GLM-4.7, GLM-5, agentic workflows
+- **GitHub Copilot** - GPT-5.2, Claude Opus/Sonnet, Gemini, Grok
+- **OpenRouter** - 400+ models, unified API gateway
+- **Mistral** - Mistral Large 3, Devstral 2
 
 </td>
 </tr>
@@ -241,7 +241,7 @@ OpenRouter offers the **best pricing control** with pay-per-token billing:
 - ✅ **Granular budgets** - Set daily/monthly spending limits
 - ✅ **Cost tracking** - Monitor usage per model
 - ✅ **Fallback models** - Automatic fallback to cheaper alternatives
-- ✅ **Free tier** - Qwen 2.5 Coder 32B and Gemini Flash available at no cost
+- ✅ **Free tier** - Free models available including Qwen, Gemini, and others at no cost
 - ✅ **Rate limiting** - Configure request limits to control costs
 
 ```bash
