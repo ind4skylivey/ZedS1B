@@ -1,5 +1,5 @@
 
-<img width="2048" height="512" alt="image-16" src="https://github.com/user-attachments/assets/da163864-7aab-44ca-9ad0-91148d2465df" />
+<img width="2048" height="512" alt="Zed God Mode Banner" src="./assets/banner.png" />
 
 <div align="center">
 
@@ -9,10 +9,10 @@
 
 ### *The ultimate Zed Editor configuration for keyboard warriors, vim enthusiasts, and power users who refuse to touch the mouse*
 
-[![Stars](https://img.shields.io/github/stars/ind4skylivey/zed-ultimate-config?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41)](https://github.com/ind4skylivey/zed-ultimate-config/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/ind4skylivey/zed-ultimate-config?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41)](https://github.com/ind4skylivey/zed-ultimate-config/commits/main)
-[![Issues](https://img.shields.io/github/issues/ind4skylivey/zed-ultimate-config?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41)](https://github.com/ind4skylivey/zed-ultimate-config/issues)
-[![License](https://img.shields.io/github/license/ind4skylivey/zed-ultimate-config?style=for-the-badge&logo=unlicense&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41)](LICENSE)
+[![Stars](https://img.shields.io/github/stars/ind4skylivey/ZedS1B?style=for-the-badge&logo=starship&color=C9CBFF&logoColor=D9E0EE&labelColor=302D41)](https://github.com/ind4skylivey/ZedS1B/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/ind4skylivey/ZedS1B?style=for-the-badge&logo=github&color=F2CDCD&logoColor=D9E0EE&labelColor=302D41)](https://github.com/ind4skylivey/ZedS1B/commits/main)
+[![Issues](https://img.shields.io/github/issues/ind4skylivey/ZedS1B?style=for-the-badge&logo=gitbook&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41)](https://github.com/ind4skylivey/ZedS1B/issues)
+[![License](https://img.shields.io/github/license/ind4skylivey/ZedS1B?style=for-the-badge&logo=unlicense&color=DDB6F2&logoColor=D9E0EE&labelColor=302D41)](LICENSE)
 
 [![Zed](https://img.shields.io/badge/Zed-0.210.4+-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjEgM0gzVjIxSDIxVjNaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)](https://zed.dev/)
 [![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white)](https://www.vim.org/)
