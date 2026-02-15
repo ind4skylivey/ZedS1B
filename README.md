@@ -227,13 +227,13 @@ export OPENROUTER_API_KEY="your-openrouter-key" # Optional
 
 ### Supported Providers
 
-| Provider | Models | Best For |
-|----------|--------|----------|
-| **GLM (Z.AI)** | glm-4.7, glm-4.7-flash, glm-4-plus, glm-5 | Chinese AI, coding tasks |
-| **GitHub Copilot** | gpt-5-mini, Claude 3.7, o1-preview | GitHub integration |
-| **OpenRouter** | Qwen 2.5 Coder, Gemini Flash | **Best pricing control** - Pay per token with configurable budgets |
-| **Mistral** | Devstral Small | European AI |
-| **OpenCode** | Local serve, **Kimi GLM5** | Custom local AI & advanced coding models |
+| Provider       | Models                                                                                     | Best For                                                                     |
+| -------------- | ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------- |
+| **GLM (Z.AI)**     | GLM-4.7, GLM-4.7-flash, GLM-4-plus, GLM-5                                                  | Chinese AI, coding tasks, agentic workflows                                  |
+| **GitHub Copilot** | GPT-5.2, GPT-5.3-Codex, Claude Opus 4.6, Claude Sonnet 4.5, Gemini 3 Pro, Grok Code Fast 1 | GitHub integration, IDE coding assistance, multi-model access                |
+| **OpenRouter**     | 400+ models from multiple providers (OpenAI, Anthropic, Google, DeepSeek, Mistral, etc.)   | Unified API gateway, model flexibility, cost optimization with routing       |
+| **Mistral**        | Mistral Large 3, Devstral 2                                                                | European AI, affordable coding agents, open-source options                   |
+| **OpenCode**       | Local serve with Kimi, GLM5, DeepSeek, Qwen, custom fine-tuned models                       | Custom local AI, advanced coding models, privacy-focused, offline capability |
 
 #### 💰 OpenRouter - Pricing Control
 
