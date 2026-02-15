@@ -229,11 +229,50 @@ export OPENROUTER_API_KEY="your-openrouter-key" # Optional
 
 | Provider | Models | Best For |
 |----------|--------|----------|
-| **GLM (Z.AI)** | glm-4.7, glm-4.7-flash, glm-4-plus | Chinese AI, coding tasks |
+| **GLM (Z.AI)** | glm-4.7, glm-4.7-flash, glm-4-plus, glm-5 | Chinese AI, coding tasks |
 | **GitHub Copilot** | gpt-5-mini, Claude 3.7, o1-preview | GitHub integration |
-| **OpenRouter** | Qwen 2.5 Coder, Gemini Flash | Free models |
+| **OpenRouter** | Qwen 2.5 Coder, Gemini Flash | **Best pricing control** - Pay per token with configurable budgets |
 | **Mistral** | Devstral Small | European AI |
-| **OpenCode** | Local opencode serve | Custom local AI |
+| **OpenCode** | Local serve, **Kimi GLM5** | Custom local AI & advanced coding models |
+
+#### 💰 OpenRouter - Pricing Control
+
+OpenRouter offers the **best pricing control** with pay-per-token billing:
+- ✅ **Granular budgets** - Set daily/monthly spending limits
+- ✅ **Cost tracking** - Monitor usage per model
+- ✅ **Fallback models** - Automatic fallback to cheaper alternatives
+- ✅ **Free tier** - Qwen 2.5 Coder 32B and Gemini Flash available at no cost
+- ✅ **Rate limiting** - Configure request limits to control costs
+
+```bash
+# Optional: Set budget controls
+export OPENROUTER_BUDGET_DAILY="5.00"  # $5 USD daily limit
+export OPENROUTER_BUDGET_MONTHLY="50.00"  # $50 USD monthly limit
+```
+
+#### 🚀 OpenCode - Kimi GLM5 Integration
+
+OpenCode supports **Kimi GLM5** for advanced coding assistance:
+
+```json
+{
+  "opencode": {
+    "type": "custom",
+    "command": "/usr/bin/opencode",
+    "args": ["serve"],
+    "env": {
+      "KIMI_API_KEY": "${KIMI_API_KEY}",
+      "KIMI_MODEL": "glm-5"
+    }
+  }
+}
+```
+
+**Kimi GLM5 Features:**
+- 🧠 Advanced code understanding and generation
+- 💬 Multi-turn conversations with context retention
+- 🌐 Multilingual support (Chinese/English optimized)
+- ⚡ Fast inference with streaming responses
 
 ### Context Server (MCP)
 
