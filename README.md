@@ -265,7 +265,7 @@ To use Zed without AI, simply don't set the environment variables. The configura
 ```bash
 # Backup, clone, and install
 cp -r ~/.config/zed ~/.config/zed.backup && \
-git clone git@github.com:ind4skylivey/zed-ultimate-config.git /tmp/zed-config && \
+git clone git@github.com:ind4skylivey/ZedS1B.git /tmp/zed-config && \
 cp /tmp/zed-config/config/*.json ~/.config/zed/ && \
 echo "✅ Zed God Mode installed! Restart Zed."
 ```
@@ -409,8 +409,8 @@ Git workflows
 
 We love contributions!
 
-- 🐛 **Report Bugs**: [Open an issue](https://github.com/ind4skylivey/zed-ultimate-config/issues)
-- 💡 **Suggest Features**: [Start a discussion](https://github.com/ind4skylivey/zed-ultimate-config/discussions)
+- 🐛 **Report Bugs**: [Open an issue](https://github.com/ind4skylivey/ZedS1B/issues)
+- 💡 **Suggest Features**: [Start a discussion](https://github.com/ind4skylivey/ZedS1B/discussions)
 - 🔧 **Submit PRs**: [Contributing Guide](CONTRIBUTING.md)
 
 ---
@@ -429,7 +429,7 @@ We love contributions!
 
 <div align="center">
 
-[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/ind4skylivey/zed-ultimate-config/discussions)
+[![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/ind4skylivey/ZedS1B/discussions)
 [![Discord](https://img.shields.io/badge/Zed-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/zed)
 
 **Share your experience with** `#ZedGodMode`
@@ -475,7 +475,7 @@ MIT License - see [LICENSE](LICENSE) file.
 ### 🚀 **Ready to enter God Mode?**
 
 ```bash
-git clone git@github.com:ind4skylivey/zed-ultimate-config.git
+git clone git@github.com:ind4skylivey/ZedS1B.git
 ```
 
 **[Get Started Now →](#-quick-start)**
@@ -484,6 +484,6 @@ git clone git@github.com:ind4skylivey/zed-ultimate-config.git
 
 **Star ⭐ | Fork 🔱 | Share 📢**
 
-Made by [@ind4skylivey](https://github.com/ind4skylivey) | [Report Issues](https://github.com/ind4skylivey/zed-ultimate-config/issues)
+Made by [@ind4skylivey](https://github.com/ind4skylivey) | [Report Issues](https://github.com/ind4skylivey/ZedS1B/issues)
 
 </div>

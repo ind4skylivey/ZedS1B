@@ -165,5 +165,5 @@ This is the initial public release of Zed Ultimate Configuration. It represents 
 - **Fixed**: Bug fixes
 - **Security**: Security fixes
 
-[Unreleased]: https://github.com/ind4skylivey/zed-ultimate-config/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/ind4skylivey/zed-ultimate-config/releases/tag/v1.0.0
+[Unreleased]: https://github.com/ind4skylivey/ZedS1B/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/ind4skylivey/ZedS1B/releases/tag/v1.0.0
