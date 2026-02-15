@@ -425,7 +425,20 @@ We love contributions!
 
 ---
 
-## 💬 Community
+## 🎨 Custom Themes
+
+This configuration works great with custom themes! Check out **[ZedPhantomUI](https://github.com/ind4skylivey/ZedPhantomUI)** - a collection of cyberpunk glassmorphism themes featuring neon colors and blur effects.
+
+| Theme | Status | Description |
+|-------|--------|-------------|
+| **Dark** | ✅ Stable | Deep blur with neon accents |
+| **Light/White** | 🚧 Alpha | Glassmorphism light variant - *in development* |
+
+*Note: The white version is currently in alpha development stage. Expect breaking changes and improvements.*
+
+---
+
+## 💬 Community & Support
 
 <div align="center">
 
@@ -435,6 +448,18 @@ We love contributions!
 **Share your experience with** `#ZedGodMode`
 
 </div>
+
+### 🤔 What are GitHub Discussions?
+
+GitHub Discussions is a collaborative communication forum for the community. Unlike issues (which are for bugs), discussions are for:
+
+- 💡 **Q&A** - Ask questions about configuration or workflow
+- 🎯 **Show and Tell** - Share your custom keybindings or tweaks
+- 💬 **General** - Chat about Zed, Vim, Emacs workflows
+- 🗳️ **Polls** - Vote on new features or changes
+- 📢 **Announcements** - Stay updated on new releases
+
+**[Join the conversation →](https://github.com/ind4skylivey/ZedS1B/discussions)**
 
 ---
 
